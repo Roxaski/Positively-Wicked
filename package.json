@@ -1,0 +1,21 @@
+{
+  "name": "Wicked",
+  "displayName": "Wicked",
+  "description": "Theme based on the musical. Choose from a light theme based on Glinda, or choose from a dark theme based on Elphaba.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wicked",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wicked-color-theme.json"
+      }
+    ]
+  }
+}
