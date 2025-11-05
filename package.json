@@ -1,7 +1,7 @@
 {
-  "name": "Wicked",
+  "name": "wicked",
   "displayName": "Wicked",
-  "description": "Theme based on the musical. Choose from a light theme based on Glinda, or choose from a dark theme based on Elphaba.",
+  "description": "VS Code theme based on the popular musical. Choose from either a light theme based on Glinda, or go with a dark theme based on Elphaba.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.105.0"
@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Wicked",
+        "label": "Glinda",
+        "uiTheme": "vs",
+        "path": "./themes/wicked-light-color-theme.json"
+      },
+      {
+        "label": "Elphaba",
         "uiTheme": "vs-dark",
-        "path": "./themes/Wicked-color-theme.json"
+        "path": "./themes/wicked-dark-color-theme.json"
       }
     ]
   }
