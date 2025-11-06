@@ -1,16 +1,25 @@
-# Wicked README
+# Wicked
 
-## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Theme
 
-## For more information
+This theme was created for use in [VS Code](https://code.visualstudio.com/) i put alot of thought into the color scheme, making sure that all the colors compliment each other and that they all mesh well together. The theme was tested with HTML, CSS & JavaScript in mind. If anyone wants to create an PR's to make any additions or changes, your more than welcome.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+There's both light and dark variants to this theme, both of them are based on the two main characters which were used as a huge inspiration when creating these themes. Glinda's light theme, is very focused on different shades of pink and white's, in contrast to the dark theme which is based on Elphaba where the main colour focus is blacks with green accents throughout.
 
-**Enjoy!**
+## Installation
+
+In order to install this theme, open VS Code and head on over to the extensions tab, alternatively you can use keyboard shortcuts | Windows ( CTRL + Shift + X ) and for Mac ( ⇧ + ⌘ + X ) once there, just type in the theme name into the search bar and click on install, that's it. Enjoi your awesome new theme!
+
+## Font
+
+They're are two fonts that i think go wonderfully with Ryu Dragon and they are [Monaspace](https://monaspace.githubnext.com/) and [Jetbrains Mono](https://www.jetbrains.com/lp/mono/). In my opinion these two fonts are fantastic for coding, as they're easy on the eyes and they really elevate the look of the theme.
+
+## Icon
+
+Massive thankyou to [GDJ](https://pixabay.com/vectors/animals-birds-cats-feline-love-1782013/) for their lovely artwork, which i used as an inspiration for the icon.
+
+## Feedback
+
+If you have any feedback then feel free to leave a review over at the []() as it would be greatly appreciated.
