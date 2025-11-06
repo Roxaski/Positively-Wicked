@@ -12,6 +12,10 @@ There's both light and dark variants to this theme, both of them are based on th
 
 In order to install this theme, open VS Code and head on over to the extensions tab, alternatively you can use keyboard shortcuts | Windows ( CTRL + Shift + X ) and for Mac ( ⇧ + ⌘ + X ) once there, just type in the theme name into the search bar and click on install, that's it. Enjoi your awesome new theme!
 
+## Icon Theme
+
+In addition to this theme i created a lovely little [icon pack]() that i feel compliments both variants of the Wicked theme quite nicely. If you want to check them out and enhance your Wicked theme then feel free to grab it from the marketplace or directly from within VS Code itself.
+
 ## Font
 
 They're are two fonts that i think go wonderfully with Ryu Dragon and they are [Monaspace](https://monaspace.githubnext.com/) and [Jetbrains Mono](https://www.jetbrains.com/lp/mono/). In my opinion these two fonts are fantastic for coding, as they're easy on the eyes and they really elevate the look of the theme.
