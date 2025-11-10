@@ -6,7 +6,7 @@
 
 This theme was created for use in [VS Code](https://code.visualstudio.com/) i put alot of thought into the color scheme, making sure that all the colors compliment each other and that they all mesh well together. The theme was tested with HTML, CSS & JavaScript in mind. If anyone wants to create an PR's to make any additions or changes, your more than welcome.
 
-There's both light and dark variants to this theme, both of them are based on the two main characters which were used as a huge inspiration when creating these themes. Glinda's light theme, is very focused on different shades of pink along with purple accents, in contrast Elphaba's dark theme is black with a wide range of different shades of green.
+There's both light and dark variants to this theme, both of them are based on the two main characters which were used as a huge inspiration when creating these themes. Glinda's light theme, is very focused on different shades of pink along with purple accents, in contrast Elphaba's dark theme is black with a range of different shades of green.
 
 ## Installation
 
