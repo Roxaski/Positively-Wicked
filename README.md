@@ -22,7 +22,7 @@ They're are two fonts that i think go wonderfully with Ryu Dragon and they are [
 
 ## Icon
 
-Massive thankyou to [GDJ](https://pixabay.com/vectors/animals-birds-cats-feline-love-1782013/) for their lovely artwork, which i used as an inspiration for the icon.
+Massive thankyou to [GDJ](https://pixabay.com/vectors/animals-birds-cats-feline-love-1782013/) for their lovely artwork, which was used as an inspiration for the icon.
 
 ## Feedback
 
