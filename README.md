@@ -27,3 +27,9 @@ Massive thankyou to [GDJ](https://pixabay.com/vectors/animals-birds-cats-feline-
 ## Feedback
 
 If you have any feedback then feel free to leave a review over at the []() as it would be greatly appreciated.
+
+## Donation
+
+If you're a fan of my work, a donation would be much appreciated but not necessary. I hope you enjoy what I've created regardless!
+
+<a href='https://ko-fi.com/I3I21O7L62' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
