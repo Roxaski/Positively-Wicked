@@ -6,6 +6,20 @@
   "engines": {
     "vscode": "^1.105.0"
   },
+  "keywords": [
+    "theme",
+    "light theme",
+    "dark theme",
+    "color-theme",
+    "wicked",
+    "musical",
+    "purple",
+    "pink",
+    "green",
+    "fantasy",
+    "light",
+    "dark"
+  ],
   "categories": [
     "Themes"
   ],
