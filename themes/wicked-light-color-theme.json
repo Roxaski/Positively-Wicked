@@ -81,15 +81,15 @@
 
         "list.dropBackground": "#faf9f6",
         "list.activeSelectionForeground": "#faf9f6",
-        "list.hoverForeground": "#faf9f6",
         "list.focusForeground": "#faf9f6",
         "list.activeSelectionBackground": "#db4a64",
         "list.inactiveSelectionForeground": "#faf9f6",
         "list.inactiveSelectionBackground": "#db4a64",
-        "list.hoverBackground": "#db4a64",
+        "list.hoverForeground": "#faf9f6",
+        "list.hoverBackground": "#f8879a",
+
         "input.background": "#f4798d",
         "input.foreground": "#faf9f6",
-        "input.placeholderForeground": "#81404b",
 
         "menu.background": "#faf9f6",
         "menubar.selectionForeground": "#faf9f6",
@@ -135,7 +135,7 @@
         "panelTitle.activeForeground": "#c4197d",
         "panelTitle.inactiveForeground": "#e96077",
 
-          "terminal.ansiBlack": "#2d2d2d",
+        "terminal.ansiBlack": "#2d2d2d",
         "terminal.ansiBrightBlack": "#616161",
         "terminal.ansiRed": "#c12952",
         "terminal.ansiBrightRed": "#e64a7a",
