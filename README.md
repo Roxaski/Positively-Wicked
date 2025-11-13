@@ -1,6 +1,6 @@
 # Wicked
 
-
+<img width="1920" height="1080" alt="github_read me" src="https://github.com/user-attachments/assets/af19f8e6-ce4a-4b06-8beb-fb884aa3adde" />
 
 ## Theme
 
