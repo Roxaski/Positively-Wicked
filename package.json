@@ -2,6 +2,17 @@
   "name": "wicked",
   "displayName": "Wicked",
   "description": "VS Code theme based on the popular musical. Choose from either a light theme based on Glinda, or go with a dark theme based on Elphaba.",
+  "icon": "assets/icon.png",
+  "license": "MIT",
+  "publisher": "roxaski",
+  "homepage": "https://github.com/Roxaski/Wicked#readme",
+  "bugs": {
+  "url": "https://github.com/Roxaski/Wicked/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Roxaski/Wicked"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.105.0"
