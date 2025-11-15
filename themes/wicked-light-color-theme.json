@@ -15,8 +15,16 @@
         "editorWidget.background": "#f8879a",
         "editor.findMatchBackground": "#ffb3c1",
         "editorGroupHeader.tabsBorder": "#e96077",
-        "editor.rangeHighlightBackground": "#ffb3c1b7",
+        "editor.rangeHighlightBackground": "#ffb3c1e0",
         "editorGroupHeader.tabsBackground": "#e96077",
+        "editor.inactiveSelectionBackground": "#ffb3c1e0",
+        "editor.selectionHighlightBackground": "#ffb3c1e0",
+
+        "inputValidation.errorBorder": "#e96077",
+        "inputValidation.errorBackground": "#e96077",
+        "inputValidation.errorForeground": "#faf9f6",
+
+        "selection.background": "#cb465d",
 
         "quickInput.background": "#faf9f6",
         "quickInput.foreground": "#212121",

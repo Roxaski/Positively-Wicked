@@ -17,6 +17,14 @@
         "editorGroupHeader.tabsBorder": "#26272600",
         "editor.rangeHighlightBackground": "#1e6c15d7",
         "editorGroupHeader.tabsBackground": "#151515",
+        "editor.inactiveSelectionBackground": "#1e6c15d7",
+        "editor.selectionHighlightBackground": "#1e6c15d7",
+
+        "inputValidation.errorBorder": "#292828",
+        "inputValidation.errorBackground": "#292828",
+        "inputValidation.errorForeground": "#e8e6e3",
+
+        "selection.background": "#1e6c15d7",
 
         "quickInput.background": "#262726",
         "quickInput.foreground": "#e8e6e3",
