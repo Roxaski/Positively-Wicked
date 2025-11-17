@@ -20,7 +20,7 @@ Contributions are very much welcome. If you'd like to suggest improvements or su
 
 Wicked's light and dark themes look incredible with [Monaspace](https://monaspace.githubnext.com/) or [JetBrains Mono](https://www.jetbrains.com/lp/mono/). Both fonts are easy on the eyes and really elevate the look of both themes.
 
-I've also created [Arctic Tower]() an icon theme pack which i feel beautifully compliments both Wicked themes.
+I have created [Ozdust]() which is an icon theme pack that i feel beautifully compliments both Wicked themes.
 
 ## Feedback
 
