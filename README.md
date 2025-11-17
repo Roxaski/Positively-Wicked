@@ -18,9 +18,9 @@ Contributions are very much welcome. If you'd like to suggest improvements or su
 
 ## Extensions
 
-Wicked's light and dark themes look incredible with [Monaspace](https://monaspace.githubnext.com/) or [JetBrains Mono](https://www.jetbrains.com/lp/mono/). Both fonts are easy on the eyes and really elevate the look of both themes.
-
 I have created [Ozdust]() which is an icon theme pack that i feel beautifully compliments both Wicked themes.
+
+Wicked's light and dark themes look incredible with [Monaspace](https://monaspace.githubnext.com/) or [JetBrains Mono](https://www.jetbrains.com/lp/mono/). Both fonts are easy on the eyes and really elevate the look of both themes.
 
 ## Feedback
 
