@@ -16,9 +16,11 @@ In order to install this theme, open VS Code and head on over to the extensions 
 
 Contributions are very much welcome. If you'd like to suggest improvements or submit new icons, then all you have to do is fork the repository, add your changes and submit a pull request.
 
-## Fonts
+## Extensions
 
-They're are two fonts that i think go wonderfully with Ryu Dragon and they are [Monaspace](https://monaspace.githubnext.com/) and [Jetbrains Mono](https://www.jetbrains.com/lp/mono/). In my opinion these two fonts are fantastic for coding, as they're easy on the eyes and they really elevate the look of the theme.
+Wicked's light and dark themes look incredible with [Monaspace](https://monaspace.githubnext.com/) or [JetBrains Mono](https://www.jetbrains.com/lp/mono/). Both fonts are easy on the eyes and really elevate the look of both themes.
+
+I've also created [Arctic Tower]() an icon theme pack which i feel beautifully compliments both Wicked themes.
 
 ## Feedback
 
