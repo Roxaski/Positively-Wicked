@@ -23,6 +23,10 @@
         "inputValidation.errorBorder": "#292828",
         "inputValidation.errorBackground": "#292828",
         "inputValidation.errorForeground": "#e8e6e3",
+        
+        "editorGutter.addedBackground": "#19830d",
+
+        "gitDecoration.ignoredResourceForeground": "#4b9443",
 
         "selection.background": "#1e6c15d7",
 

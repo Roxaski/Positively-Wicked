@@ -8,6 +8,7 @@
         "editorLineNumber.activeForeground": "#212121",
         "editorCursor.foreground": "#c56c7e",
         "editor.selectionBackground": "#ffbac6",
+        "editor.selectionHighlightBackground": "#ffbac5f3",
         "editorHoverWidget.foreground": "#e96077",
         "editorHoverWidget.background": "#faf9f6",
         "editorHoverWidget.border": "#f8879a",
@@ -18,11 +19,14 @@
         "editor.rangeHighlightBackground": "#ffb3c1e0",
         "editorGroupHeader.tabsBackground": "#e96077",
         "editor.inactiveSelectionBackground": "#ffb3c1e0",
-        "editor.selectionHighlightBackground": "#ffb3c1e0",
 
         "inputValidation.errorBorder": "#e96077",
         "inputValidation.errorBackground": "#e96077",
         "inputValidation.errorForeground": "#faf9f6",
+        
+        "editorGutter.addedBackground": "#e243bd",
+
+        "gitDecoration.ignoredResourceForeground": "#232323",
 
         "selection.background": "#cb465d",
 
