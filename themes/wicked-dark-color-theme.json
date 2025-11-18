@@ -93,7 +93,7 @@
         "sideBarSectionHeader.border": "#262726",
         "sideBarTitle.background": "#1c1a1a",
 
-        "list.dropBackground": "#e8e6e3",
+        "list.dropBackground": "#323232",
         "list.activeSelectionForeground": "#e8e6e3",
         "list.hoverForeground": "#e8e6e3",
         "list.focusForeground": "#e8e6e3",
