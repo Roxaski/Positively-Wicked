@@ -100,6 +100,8 @@
         "list.hoverForeground": "#faf9f6",
         "list.hoverBackground": "#f8879a",
 
+        "tree.indentGuidesStroke": "#faf9f6",
+
         "input.background": "#f4798d",
         "input.foreground": "#faf9f6",
 

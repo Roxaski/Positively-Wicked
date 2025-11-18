@@ -102,6 +102,8 @@
         "list.inactiveSelectionBackground": "#323232",
         "list.hoverBackground": "#1c1a1a",
 
+        "tree.indentGuidesStroke": "#e8e6e3",
+
         "menu.background": "#1e1d1d",
         "menubar.selectionForeground": "#e8e6e3",
         "menubar.selectionBackground": "#323232",
