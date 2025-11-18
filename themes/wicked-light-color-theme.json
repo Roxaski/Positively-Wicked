@@ -24,7 +24,7 @@
         "inputValidation.errorBackground": "#e96077",
         "inputValidation.errorForeground": "#faf9f6",
         
-        "editorGutter.addedBackground": "#e243bd",
+        "editorGutter.addedBackground": "#ea8596",
 
         "gitDecoration.ignoredResourceForeground": "#232323",
 
