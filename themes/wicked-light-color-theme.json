@@ -137,6 +137,7 @@
         "scrollbarSlider.background": "#d44b6290", 
         "scrollbarSlider.hoverBackground": "#d44b62", 
         "scrollbarSlider.activeBackground": "#d44b62",
+        "scrollbar.shadow": "#d5476100",
 
         "editorBracketHighlight.foreground1": "#d87688",
         "editorBracketHighlight.foreground2": "#d87688",
