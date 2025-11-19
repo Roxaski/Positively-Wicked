@@ -7,7 +7,7 @@
         "editorLineNumber.foreground": "#8b8b8b",
         "editorLineNumber.activeForeground": "#267d1d",
         "editorCursor.foreground": "#e8e6e3",
-        "editor.selectionBackground": "#255021",
+        "editor.selectionBackground": "#404340",
         "editorHoverWidget.foreground": "#e8e6e3",
         "editorHoverWidget.background": "#141514",
         "editorHoverWidget.border": "#141514",
@@ -19,6 +19,11 @@
         "editorGroupHeader.tabsBackground": "#151515",
         "editor.inactiveSelectionBackground": "#1e6c15d7",
         "editor.selectionHighlightBackground": "#1e6c15d7",
+        "editorOverviewRuler.addedForeground": "#1e6c15",
+        "editorOverviewRuler.modifiedForeground": "#1e6c15",
+        "editorOverviewRuler.deletedForeground": "#4b9443",
+        "editorGutter.modifiedBackground": "#1e6c15d7",
+        "editorGutter.deletedBackground": "#e25d7c80",
 
         "inputValidation.errorBorder": "#292828",
         "inputValidation.errorBackground": "#292828",
@@ -127,9 +132,9 @@
         "button.hoverBackground": "#414141",
         "button.border": "#323232",
 
-        "scrollbarSlider.background": "#12600a", 
-        "scrollbarSlider.hoverBackground": "#12600a", 
-        "scrollbarSlider.activeBackground": "#12600a",
+        "scrollbarSlider.background": "#13600a90", 
+        "scrollbarSlider.hoverBackground": "#13600a", 
+        "scrollbarSlider.activeBackground": "#13600a",
 
         "editorBracketHighlight.foreground1": "#52a249",
         "editorBracketHighlight.foreground2": "#52a249",
@@ -162,6 +167,7 @@
         "terminal.ansiBrightCyan": "#4da882",
         "terminal.ansiWhite": "#c9c6c6",
         "terminal.ansiBrightWhite": "#f1f0ee",
+        "list.errorForeground": "#52a249",
 	},
 	"tokenColors": [
 		{
