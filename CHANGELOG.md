@@ -1,7 +1,7 @@
 # Change Log
 
-## [1.0.0] - 2025-11-21
+## [1.0.1] - 2025-11-21
 
 ### Update
 
-- Initial Release
+- updated read.me with recommended links
