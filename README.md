@@ -20,7 +20,7 @@ Wicked's light and dark themes look incredible with [Monaspace](https://monaspac
 
 ## Feedback
 
-If you have any feedback you can leave a review over at the [VS Code Marketplace]() as it would be greatly appreciated, and if you encounter any issues then make sure to report them through the repository.
+If you have any feedback you can leave a review over at the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=RoxasKi.positively-wicked) as it would be greatly appreciated, and if you encounter any issues then make sure to report them through the repository.
 
 ## Credits
 
