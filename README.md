@@ -16,6 +16,10 @@ Contributions are very much welcome. If you'd like to suggest improvements or su
 
 ## Extensions
 
+Wicked's theme pairs beautifully with the Ozdust Icon Pack, together they create an incredible magical coding environment inspired by the wonderful world of Oz.
+
+[Install in VS Code](vscode:extension/RoxasKi.Ozdust) | [View on Marketplace](https://marketplace.visualstudio.com/items?itemName=RoxasKi.ozdust-icons)
+
 Wicked's light and dark themes look incredible with [Monaspace](https://monaspace.githubnext.com/) or [JetBrains Mono](https://www.jetbrains.com/lp/mono/). Both fonts are easy on the eyes and really elevate the look of both themes.
 
 ## Feedback
